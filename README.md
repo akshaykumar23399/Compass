@@ -1,4 +1,4 @@
-# Compass ![alt text][logo]
+# Compass ![alt text][logo = 35x35]
 This is an Android application that points to the North Direction using Compass Sensor
 
 ###### Made by Vaibhav & Akshay using Processing
